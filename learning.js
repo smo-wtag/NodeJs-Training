@@ -134,10 +134,3 @@ const person = {
 
 person.name = "john";
 console.log(person);
-
-// console.log(person.greet());
-
-function isValidEmail(email) {
-  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  return emailRegex.test(email);
-}
