@@ -1,0 +1,13 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "Learning Phase",
+  "license": "ISC",
+  "author": "Salmaan",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node --watch learning.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
